@@ -1,0 +1,44 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+    <link rel="stylesheet" href="/webjars/bootstrap/4.5.0/css/bootstrap.min.css" />
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+	<h1 class="text-center"><u>Welcome to Ninja Gold Game!</u></h1>
+	<div class="container d-flex justify-content-center">
+		<form action="" method="post">
+			<div class="card">
+				<div class="card-header"> Farm</div>
+				<div class="card-body">(earns 10-20 gold)</div>
+				<div class="card-footer"><button>Find Gold!</button></div>
+			</div>
+		</form>
+		<form action="" method="post">
+			<div class="card">
+				<div class="card-header"> Farm</div>
+				<div class="card-body">(earns 10-20 gold)</div>
+				<div class="card-footer"><button>Find Gold!</button></div>
+			</div>
+		</form>
+		<form action="" method="post">
+			<div class="card">
+				<div class="card-header"> Farm</div>
+				<div class="card-body">(earns 10-20 gold)</div>
+				<div class="card-footer"><button>Find Gold!</button></div>
+			</div>
+		</form>
+		<form action="" method="post">
+			<div class="card">
+				<div class="card-header"> Farm</div>
+				<div class="card-body">(earns 10-20 gold)</div>
+				<div class="card-footer"><button>Find Gold!</button></div>
+			</div>
+		</form>
+		
+	</div>
+</body>
+</html>

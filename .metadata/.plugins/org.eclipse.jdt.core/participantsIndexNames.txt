@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+C:\Users\Vasylkovan's home\Desktop\CodingDoJo\Java\springProjects\NinjaGoldGame\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2183299341.index
+\NinjaGoldGame\src\main\java
